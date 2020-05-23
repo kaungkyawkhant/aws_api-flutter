@@ -25,13 +25,11 @@ class _AmzPageState extends State<AmzPage> {
                 color: Colors.lightGreenAccent,
                 padding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 5.0),
                 child: Row(
-                  mainAxisAlignment: MainAxisAlignment.start,
-                  crossAxisAlignment: CrossAxisAlignment.center,
+                  mainAxisAlignment: MainAxisAlignment.spaceAround,
                   children: <Widget>[
                     SizedBox(width: 15.0,),
-                    Text('IP Subnets'),
-                    SizedBox(width: 200.0,),
-                    Text('Region Names'),
+                    Expanded(flex: 3, child: Text('IP Subnets'),),
+                    Expanded(flex: 1, child: Text('Regions'),),
                     SizedBox(width: 15.0,),
                   ],
                 ),

@@ -4,6 +4,5 @@ import 'package:flutter/cupertino.dart';
 const TextStyle kTextStyle = TextStyle(
   color: Colors.black,
   fontWeight: FontWeight.bold,
-  fontSize: 20.0,
-
+  fontSize: 15.0,
 );
