@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T02:51:53.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="22.1.21" etag="ldMZiHBeTgt6zCclJKMC" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T02:55:22.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IPEwk-UDKO2--Li9ACMK" version="22.1.21" type="github">
   <diagram name="Page-1" id="AiOLqhkKuJJUBzbps3cw">
-    <mxGraphModel>
+    <mxGraphModel dx="833" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sChnFC8Stse_2uqYKn4a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sChnFC8Stse_2uqYKn4a-1" target="sChnFC8Stse_2uqYKn4a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sChnFC8Stse_2uqYKn4a-1" value="main" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sChnFC8Stse_2uqYKn4a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sChnFC8Stse_2uqYKn4a-2" target="sChnFC8Stse_2uqYKn4a-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sChnFC8Stse_2uqYKn4a-2" value="bootstrap" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sChnFC8Stse_2uqYKn4a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sChnFC8Stse_2uqYKn4a-3" target="sChnFC8Stse_2uqYKn4a-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sChnFC8Stse_2uqYKn4a-3" value="app" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sChnFC8Stse_2uqYKn4a-5" value="geminiRepository" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="400" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="sChnFC8Stse_2uqYKn4a-4" value="firestore" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
